@@ -26,9 +26,6 @@ The necessary utility functions written in *Python* are in the [UtilityFunctions
 
 To run the Jupyter notebook I suggest using the docker image *ubsuny/cp1-hw8:latest*.
 
-There is also a YouTube video *link here*.
-
-
 ## Setup
 
 Do the following to navigate the repository and begin doing the experiment on your own:
